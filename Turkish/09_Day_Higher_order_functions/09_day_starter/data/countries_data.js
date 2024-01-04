@@ -1859,7 +1859,7 @@ const countries = [
     currency: 'Tunisian dinar'
   },
   {
-    name: 'Turkey',
+    name: 'Türkiye',
     capital: 'Ankara',
     languages: ['Turkish'],
     population: 78741053,
